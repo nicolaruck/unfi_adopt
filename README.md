@@ -11,3 +11,4 @@ Um dieses Tool nutzen zu können, müssen folgende Voraussetzungen erfüllt sein
 - Installiertes Posh-SSH Modul
 
 Das Skript prüft, ob das Posh-SSH Modul installiert ist, und installiert es bei Bedarf automatisch.
+Die Anwendung wurde mittels WIN-PS2EXE erstellt.
